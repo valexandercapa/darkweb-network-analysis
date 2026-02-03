@@ -26,7 +26,7 @@ jupyter notebook DarkWebAnalysis.ipynb
 2. Run all cells to reproduce the topology analysis, null models comparison and centrality calculations.
 
 ### Visualization
-The network visualization was generated using Gephi 0.9.7
+The network visualization was generated using **Gephi 0.10.1**
 - **Layout:** ForceAtlas2
 - **Settings:**
   1. Scalling 200.0
