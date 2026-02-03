@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ### Execution
 1. Open the notebook:
 ```bash
-jupyter notebook analysis_notebook.ipynb
+jupyter notebook DarkWebAnalysis.ipynb
 ```
 2. Run all cells to reproduce the topology analysis, null models comparison and centrality calculations.
 
