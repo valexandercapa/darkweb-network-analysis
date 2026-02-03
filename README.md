@@ -2,7 +2,8 @@
 ## An Analysis of Hidden Service Connectivity
 
 **Author:** Victor A. Capa
-**Context:** Complex Networks Final Report
+
+_Complex Networks Final Report_
 
 >Reproducibility package for the report 'Structural Anatomy of the Dark Web'. This project characterizes the topological structure of the Dark Web, identifying oligarchic tendencies and ultra-small world properties using NetworkX, Powerlaw, and Gephi.
 
