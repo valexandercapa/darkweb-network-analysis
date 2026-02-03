@@ -36,7 +36,7 @@ The network visualization was generated using Gephi 0.9.7
 
 ## Data Origin
 The dataset analyzed represents a snapshot of the Dark Web hidden services extracted via Tor2web.
-- **Source:** [https://arxiv.org/abs/1704.07525](Griffith, V. et al. (2017). Graph Theoretic Properties of the Darkweb)
+- **Source:** [Griffith, V. et al. (2017). Graph Theoretic Properties of the Darkweb](https://arxiv.org/abs/1704.07525)
 - **Format**: Directed weighted graph where nodes represent `.onion` domains and edges represent hyperlinks.
 - **Processing:** Directions and weights were disregarded for the analysis.
 
