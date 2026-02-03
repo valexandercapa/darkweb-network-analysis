@@ -42,6 +42,6 @@ The dataset analyzed represents a snapshot of the Dark Web hidden services extra
 - **Processing:** Directions and weights were disregarded for the analysis.
 
 ## License
-- **Code & Analysis:** The content of the notebooks and scrpits in this repository is realsed into the Public Domain. You are free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, and by any means.
+- **Code & Analysis:** The content of the notebooks and scrpits in this repository is realsed into the Public Domain. You are free to copy, modify, use, compile, or distribute this software, either in source code form or as a compiled binary, for any purpose, and by any means.
 
 - **Data:** The dataset included is for educational reproducibility purposes. Rights regarding the dataset content belong to their original collectors/authors.
